@@ -21,10 +21,23 @@ Once I had this model, I began to manipulate the shape slightly, and add the mou
 
 When designing this part, I looked to the community for ideas and feedback. This raised some good ideas, and also some things for me to look into. The idea of having a pen loop and scorecard bar, was one of the suggestion made by the [trials community](http://www.trials.com.au), which I thought was a great idea.
 
-The main issue that was raised by the community was concerns over the use of such a part with Motorcycling Australia's General Competition Rules. I was quite sure that the part would be sufficient to meet the GCR requirements, and to remove any doubt
+The main issue that was raised by the community was concerns over the use of such a part with Motorcycling Australia's General Competition Rules. I was quite sure that the part would be sufficient to meet the GCR requirements, and to remove any doubt, I contacted Motorcycling Australia to seek guidance on the the issue. Their response indicated that the name board was fine to use, as long as the graphics had a clear background and 25mm tall lettering. They also gave a suggestion that any flashings on the graphics should be in a neutral colour, to avoid any confusion with other classes. For example, my original clubman graphics had a white background for clubman class with blue and yellow flashings on the graphics to match my bike's Sherco colours. The advice I got from MA was that blue and yellow are colours used for B grade and C grade, so to reduce confusion, I should use black flashings or something similar. I ended up using carbon flashings on my graphics and that was fine for competition rules.
 
+**Producing the Design**
 
+I will be posting another article with some suggestions for 3D printing the part based on different copies of the part that I have had printed.
 
+**Pictures**
+
+The overall 3D design
+
+The plastic mockup I used, which didn't have any mounting points, or pen holder.
+
+Some competition photos. Notice the change in my graphics to carbon flashings.
+
+2 different 3d prints of the part. I will go into detail on this in a future post. One was printed in 2 parts and has a visible seam.
+
+Final part on my bike with my new C grade graphics.
 
 
 If you appreciate my designs and would like to fund my future designs, I would greatly appreciate if you [made a donation](https://paypal.me/mongerrr).
