@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Openmoto"
+title:  "Welcome to OpenMoto"
 date:   2016-06-16 22:01:26 +1000
 categories: about
 ---
 I've decided to open this blog to share my designs for 3d printed motorbike parts. Initially, I will be focussing on trials bikes, but in the future I would like to expand to include road bikes, and enduro/mx bikes.
 
-***Why Openmoto?***
+***Why OpenMoto?***
 
 When designing my trials bike name board, I looked into the costs associated with getting the piece manufactured on a small scale, due to interest in my design from the trials community. I found that even when vacuum casting, I couldn't get the final price down to my target price of AU$35. Using vacuum casting, the closest I could get was $80 if manufactured in Australia and $45 if manufactured in China. To get those prices, I had to assume that I was getting over 100 units vacuum cast, and to have a smaller amount, like 50 units, would cost significantly higher.
 
-I decided against using this option as I felt it asked for too much money from the people interested in the part, and required me to keep an amount of inventory that I felt could be too much for the smaller Australian trials community. I decided to look into other options for my parts, which led me to come up with this "Openmoto" idea.
+I decided against using this option as I felt it asked for too much money from the people interested in the part, and required me to keep an amount of inventory that I felt could be too much for the smaller Australian trials community. I decided to look into other options for my parts, which led me to come up with this "OpenMoto" idea.
 
 ***Basically, my designs will be free***.
 

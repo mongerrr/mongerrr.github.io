@@ -4,7 +4,7 @@ title:  "Trials Name Board"
 date:   2016-06-16 22:01:26 +1000
 categories: designs,trials
 ---
-For my first design, I have made a front name board for trials bikes. The design would also look good on any pit bike too.
+For my first design, I have made a front name board for trials bikes. The design would also look good on any pit bike too. To view and download the 3D model and its source code, [visit the project page on GitHub](https://github.com/mongerrr/Openmoto1/)
 
 **Design Features**
 - Easy mounting to the forks using cable ties

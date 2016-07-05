@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Openmoto
+title: OpenMoto
 
 # Short description of your site
 description: Open Hardware Designs For Motorcycles
@@ -24,11 +24,11 @@ description: Open Hardware Designs For Motorcycles
 # List of links in the navigation bar
 navbar-links:
   about: "about"
-  Resources:
-    - Coming Soon: ""
-    - Coming Soon: ""
-    - Coming Soon: ""
-  Author's home: "https://github.com/mongerrr/"
+  Designs:
+    - Trials Name Board: ""
+    - Sherco Side Logo: ""
+    - More Coming Soon: ""
+  Donate: "https://paypal.me/mongerrr/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
