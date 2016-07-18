@@ -13,7 +13,7 @@ The design would also look good on any pit bike too. To view a live preview and 
 
 Here is photo of the name board on my bike
 
-![Mockup](mockup.jpg)
+![Mockup](/_Resources/2016-07-19-trials-name-board-printing/mockup.jpg)
 
 **Design Features**
 - Easy mounting to the forks using cable ties
@@ -40,17 +40,17 @@ I will be posting another article with some suggestions for 3D printing the part
 
 The overall 3D design
 
-![3D model](3d_model.png)
+![3D model](/_Resources/2016-07-19-trials-name-board-printing/3d_model.png)
 
 A photo from a Wollongong MCC club trial. Notice the change in my graphics to carbon flashings.
 
-![Club Trial](club.jpg)
+![Club Trial](/_Resources/2016-07-19-trials-name-board-printing/club.jpg)
 
 A 3d print of the part showing the front and back. I will go into detail on this in a future post. This one was printed in 2 parts and has a visible seam.
 
-![ABS Front](abs_front.jpg)
+![ABS Front](/_Resources/2016-07-19-trials-name-board-printing/abs_front.jpg)
 
-![ABS Back](abs_back.jpg)
+![ABS Back](/_Resources/2016-07-19-trials-name-board-printing/abs_back.jpg)
 
 If you appreciate my designs and would like to fund my future designs, I would greatly appreciate if you [made a donation](https://paypal.me/mongerrr).
 
