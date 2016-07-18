@@ -1,10 +1,19 @@
 ---
 layout: post
 title:  "Trials Name Board"
-date:   2016-06-16 22:01:26 +1000
-categories: designs,trials
+date:   2016-07-16 22:01:26 +1000
+tags:
+- designs
+- trials
+- name_board
 ---
-For my first design, I have made a front name board for trials bikes. The design would also look good on any pit bike too. To view and download the 3D model and its source code, [visit the project page on GitHub](https://github.com/mongerrr/Openmoto1/)
+For my first design, I have made a front name board for trials bikes. When I was looking for a name board for my own trials bike for competitions, I was wondering why anyone didn't have a fancier looking name board. I was sure that I was not the only person wondering this, so I decided to try to make them for whoever is interested.
+
+The design would also look good on any pit bike too. To view a live preview and download the 3D model and its source code, [visit the project page on GitHub](https://github.com/mongerrr/Openmoto1/)
+
+Here is photo of the name board on my bike
+
+![Mockup](mockup.jpg)
 
 **Design Features**
 - Easy mounting to the forks using cable ties
@@ -31,13 +40,18 @@ I will be posting another article with some suggestions for 3D printing the part
 
 The overall 3D design
 
-The plastic mockup I used, which didn't have any mounting points, or pen holder.
+![3D model](3d_model.png)
 
-Some competition photos. Notice the change in my graphics to carbon flashings.
+A photo from a Wollongong MCC club trial. Notice the change in my graphics to carbon flashings.
 
-2 different 3d prints of the part. I will go into detail on this in a future post. One was printed in 2 parts and has a visible seam.
+![Club Trial](club.jpg)
 
-Final part on my bike with my new C grade graphics.
+A 3d print of the part showing the front and back. I will go into detail on this in a future post. This one was printed in 2 parts and has a visible seam.
 
+![ABS Front](abs_front.jpg)
+
+![ABS Back](abs_back.jpg)
 
 If you appreciate my designs and would like to fund my future designs, I would greatly appreciate if you [made a donation](https://paypal.me/mongerrr).
+
+Tell me what you think in the comments below

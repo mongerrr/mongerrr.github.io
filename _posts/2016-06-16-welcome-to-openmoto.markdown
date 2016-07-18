@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to OpenMoto"
 date:   2016-06-16 22:01:26 +1000
-categories: about
+tags: about
 ---
 I've decided to open this blog to share my designs for 3d printed motorbike parts. Initially, I will be focussing on trials bikes, but in the future I would like to expand to include road bikes, and enduro/mx bikes.
 
@@ -29,3 +29,5 @@ I also understand that there are people who don't want to muck around with stl's
 To make things easier for people organising 3d printing for themselves, I will make sure that I make a post, giving some recommendations about materials and people who can 3d print parts for you. This will give more flexibility in terms of cost and materials, compared to volume production.
 
 ***Stay tuned for further information and new designs***
+
+Feel free to drop a comment below
