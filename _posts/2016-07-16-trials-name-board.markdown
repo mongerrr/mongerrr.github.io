@@ -13,7 +13,7 @@ The design would also look good on any pit bike too. To view a live preview and 
 
 Here is photo of the name board on my bike
 
-![Mockup](https://github.com/mongerrr/mongerrr.github.io/blob/master/resources/2016-07-16-trials-name-board/mockup.jpg)
+![Mockup](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/mockup.jpg)
 
 **Design Features**
 - Easy mounting to the forks using cable ties
@@ -40,17 +40,17 @@ I will be posting another article with some suggestions for 3D printing the part
 
 The overall 3D design
 
-![3D model](https://github.com/mongerrr/mongerrr.github.io/blob/master/resources/2016-07-16-trials-name-board/3d_model.png)
+![3D model](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/3d_model.png)
 
 A photo from a Wollongong MCC club trial. Notice the change in my graphics to carbon flashings.
 
-![Club Trial](https://github.com/mongerrr/mongerrr.github.io/blob/master/resources/2016-07-16-trials-name-board/club.jpg)
+![Club Trial](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/club.jpg)
 
 A 3d print of the part showing the front and back. I will go into detail on this in a future post. This one was printed in 2 parts and has a visible seam.
 
-![ABS Front](https://github.com/mongerrr/mongerrr.github.io/blob/master/resources/2016-07-16-trials-name-board/abs_front.jpg)
+![ABS Front](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_front.jpg)
 
-![ABS Back](https://github.com/mongerrr/mongerrr.github.io/blob/master/resources/2016-07-16-trials-name-board/abs_back.jpg)
+![ABS Back](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_back.jpg)
 
 If you appreciate my designs and would like to fund my future designs, I would greatly appreciate if you [made a donation](https://paypal.me/mongerrr).
 
