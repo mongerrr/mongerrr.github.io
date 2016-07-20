@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Openmoto
+title: About OpenMoto
 permalink: /about/
 ---
 
