@@ -55,7 +55,7 @@ These are pictures of a piece made from ABS in 2 parts, with 100 micron layers.
 
 The next photo if of a PLA piece printed in 1 part, with 200 micron layers. Note the fold that happened during printing.
 
-![PLA Front](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-24-trials-name-board-printing/pla_back.jpg)
+![PLA Front](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-24-trials-name-board-printing/pla_front.jpg)
 
 
 **Conclusions**
