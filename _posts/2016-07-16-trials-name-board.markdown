@@ -36,6 +36,8 @@ The main issue that was raised by the community was concerns over the use of suc
 
 I will be posting another article with some suggestions for 3D printing the part based on different copies of the part that I have had printed.
 
+_Edit: Link to printing article [here](mongerrr.github.io/2016-07-24-trials-name-board-printing/)_
+
 **Pictures**
 
 The overall 3D design
