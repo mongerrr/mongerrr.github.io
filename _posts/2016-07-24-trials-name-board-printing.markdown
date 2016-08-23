@@ -8,11 +8,11 @@ tags:
 - name_board
 ---
 
-For those of you who have seen [trials name board](http://mongerrr.github.io) and would like to 3D print for your own bike, here are some tips that I can share from 3D printing my own parts.
+For those of you who have seen [trials name board](https://mongerrr.github.io/2016-07-16-trials-name-board/) and would like to 3D print for your own bike, here are some tips that I can share from 3D printing my own parts.
 
 **3D Printing Providers**
 
-Commercial 3D printers are _expensive_, there is no other way of putting it. A good alternative that I have found was a site called [3D Hubs](hhtps://3dhubs), which can offer a reasonably good print for a good price. What 3D Hubs does, is let people (both hobbyists and commercial) who own a 3D printer list their printer on their site, so instead of having downtime, it can be used to produce other peoples prints. On a side note, 3D Hubs also operates worldwide, as I have noticed there has been some international readers
+Commercial 3D printers are _expensive_, there is no other way of putting it. A good alternative that I have found was a site called [3D Hubs](https://www.3dhubs.com), which can offer a reasonably good print for a good price. What 3D Hubs does, is let people (both hobbyists and commercial) who own a 3D printer list their printer on their site, so instead of having downtime, it can be used to produce other peoples prints. On a side note, 3D Hubs also operates worldwide, as I have noticed there has been some international readers
 
 Since a lot of these people are enthusiasts rather than commercial 3D printers, it means that the prints can be done a lot cheaper than at a commercial outfit. The website also makes it easy to find the best price for the materials you want without the hassle of chasing down dozens of quotes.
 
@@ -29,6 +29,8 @@ An ABS piece is relatively strong in the plane of each layer, but it need some t
 The acetone chemically melts the layers together, which adds both strength and flexibility to the piece. Since it also dissolves ABS, it can also be used to smooth out the layer lines and give the piece more of a glossy look.
 
 There are still many more materials that can be 3D printed and if anyone has any comments they can give on other materials, I would be glad to hear them. I would like to get this board printed in polycarbonate in the future as well, and carbon fibre printing is intriguing if I ever find someone who could do it without it costing a fortune. When I try other materials, I will be sure to update this article.
+
+_Update- I have just gotten a print done in carbon fibre reinforced PLA with a layer height of 100 microns. See my new post [here](http://mongerrr.github.io/2016-08-23-trials-name-board-cf/)_
 
 **3D Printing Techniques**
 
