@@ -14,7 +14,7 @@ My first bike was a 2003 KTM 200 EXC (pictured below) which was an awesome littl
 
 **The Design**
 
-The insert is designed to fit snugly inside the piston, and have some support for the phone to stand upright. To allow for a charging cable, the insert has a hole and some grooves in it, and I also designed a 3D printed wrist pin with a slot in it to pass the cable through the existing hole in the piston. Just like my previous design, the files needed to modify this design, and print it to suit your own piston, [will be available on Github](LINK TO REPO).
+The insert is designed to fit snugly inside the piston, and have some support for the phone to stand upright. To allow for a charging cable, the insert has a hole and some grooves in it, and I also designed a 3D printed wrist pin with a slot in it to pass the cable through the existing hole in the piston. Just like my previous design, the files needed to modify this design, and print it to suit your own piston, [will be available on Github](https://github.com/mongerrr/Openmoto2).
 
 I started off by soaking my piston in some degreaser for a couple of days to get rid of any carbon deposits. Once it was clean, I took a few measurements using some Vernier calipers to begin making the model. I am using [Openscad](http://www.openscad.org/) to make the model, so it would be relatively easy to change the model to suit measurements from any other motorcycle piston. The key measurements needed for the model are;
 - Inner diameter of the piston
@@ -40,10 +40,10 @@ Here are some pictures of the results.
 
 ![Piston 2](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock2.jpg)
 
-![Piston 3](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock3.jpg)
+![Piston 3](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock3.jpeg)
 
-![Piston 4](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock4.jpg)
+![Piston 4](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock4.jpeg)
 
-![Piston 5](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock5.jpg)
+![Piston 5](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock5.jpeg)
 
-As mentioned above, the files needed to print or modify this design are freely available [here](LINK TO REPO). Tell me what you think in the comments below and if anyone else makes their own, I'd be more than happy to post your pictures on the blog.
+As mentioned above, the files needed to print or modify this design are freely available [here](https://github.com/mongerrr/Openmoto2). Tell me what you think in the comments below and if anyone else makes their own, I'd be more than happy to post your pictures on the blog.
