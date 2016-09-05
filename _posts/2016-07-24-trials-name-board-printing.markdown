@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trials Name Board Printing"
+title:  "Printing The Trials Name Board"
 date:   2016-07-24 12:01:00 +1000
 tags:
 - designs
